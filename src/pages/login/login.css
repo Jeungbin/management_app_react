@@ -42,7 +42,7 @@ input,
 button{
     height: 2rem;
     width: 13rem;
-    border: 2px solid #af9fc0;;
+    border: 2px solid #af9fc0;
     border-radius: 3px;
     text-align: center;
 }
