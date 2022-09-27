@@ -7,6 +7,8 @@ export default function Topbar() {
     <div className='nav-bar'>
         <h4>Manage Users</h4>
         <div>
+        <a className='link' href='/'>Home</a>
+          <span> | </span>
           <a className='link' href='/'>Schdule</a>
           <span> | </span>
           <a className='link' href='/'>Manage Users</a>
